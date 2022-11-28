@@ -1,7 +1,7 @@
 # K&R C Book Solutions
 This is used to store all my solutions to the book: The C Programming Language by Kerningham and Ritchie (2nd Edition).
 
-- [ ] Chapter 1
+- [x] Chapter 1
   
 - [ ] Chapter 2
   
