@@ -3,9 +3,9 @@ This is used to store all my solutions to the book: The C Programming Language b
 
 - [x] Chapter 1
   
-- [ ] Chapter 2
+- [x] Chapter 2
   
-- [ ] Chaper 3
+- [x] Chaper 3
   
 - [ ] Chapter 4
   
