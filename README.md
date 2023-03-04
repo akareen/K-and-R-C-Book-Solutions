@@ -7,9 +7,9 @@ This is used to store all my solutions to the book: The C Programming Language b
   
 - [x] Chaper 3
   
-- [ ] Chapter 4
+- [x] Chapter 4
   
-- [ ] Chapter 5
+- [-] Chapter 5
   
 - [ ] Chapter 6
   
